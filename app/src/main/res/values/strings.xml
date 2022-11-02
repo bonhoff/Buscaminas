@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Buscaminas</string>
+    <string name="quedan">Quedan" "</string>
+    <string name="minas">" "minas</string>
+    <string name="perdido">Has perdido</string>
+    <string name="ganado">Has ganado</string>
+</resources>
